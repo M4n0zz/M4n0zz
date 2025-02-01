@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Manos! My passion is about vintage game programming, especially working with Z80 Assembly, the language behind Game Boy consoles.
+Right now, I'm focused on creating custom scripts for Pokémon Generation 1 games. Excited to see how far I can take it! 🚀
+
+## Support My Work 💖
+If you find my work useful, consider supporting me via PayPal:
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?business=manosgouzibas@yahoo.gr&currency_code=EUR)
+
 <!--
 **M4n0zz/M4n0zz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
