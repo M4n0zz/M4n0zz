@@ -3,7 +3,7 @@
 I'm Manos! My passion is about vintage game programming, especially Z80 Assembly, the language behind Game Boy consoles.<br>
 Right now, I'm focused on creating custom scripts for Pokémon Generation 1 games. Excited to see how far I can take it! 🚀
 
-## Support My Work 💖
+## Buy me a coffee ☕︎
 If you find my work useful, consider supporting me via PayPal:
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?business=manosgouzibas@yahoo.gr&currency_code=EUR)
