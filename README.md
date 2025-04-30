@@ -4,9 +4,10 @@ I'm Manos! My passion is about vintage game programming, especially Z80 Assembly
 Right now, I'm focused on creating custom scripts for Pokémon Generation 1 games. Excited to see how far I can take it! 🚀
 
 ## Buy me a coffee ☕︎
-If you find my work useful, consider supporting me via PayPal:
+Appreciate my work? You can support me:
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?business=manosgouzibas@yahoo.gr&currency_code=EUR)
+[![Paypal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?business=manosgouzibas@yahoo.gr&currency_code=EUR)
+[![Revolut](https://img.shields.io/badge/Donate-Revolut-blue.svg)](https://www.revolut.me/emmanoj7r6)
 
 <!--
 **M4n0zz/M4n0zz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
