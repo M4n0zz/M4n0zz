@@ -4,7 +4,7 @@ I'm Manos! My passion is about vintage game programming, especially SM83 Assembl
 Right now, I'm focused on creating custom scripts for Pokémon Generation 1 games. Excited to see how far I can take it! 🚀
 
 ## Buy me a coffee ☕︎
-Appreciate my work? You can support me:
+Appreciate my work? Feel free to support me — it keeps me inspired to keep building cool stuff!
 
 [![Paypal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?business=manosgouzibas@yahoo.gr&currency_code=EUR)
 [![Revolut](https://img.shields.io/badge/Donate-Revolut-blue.svg)](https://www.revolut.me/emmanoj7r6)
