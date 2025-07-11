@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Manos! My passion is about vintage game programming, especially Z80 Assembly, the language behind Game Boy consoles.<br>
+I'm Manos! My passion is about vintage game programming, especially SM83 Assembly, the language behind Game Boy consoles.<br>
 Right now, I'm focused on creating custom scripts for Pokémon Generation 1 games. Excited to see how far I can take it! 🚀
 
 ## Buy me a coffee ☕︎
