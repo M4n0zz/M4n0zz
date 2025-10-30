@@ -6,7 +6,7 @@ Right now, I'm focused on creating custom scripts for Pokémon Generation 1 game
 ## Buy me a coffee ☕︎
 Appreciate my work? Feel free to support me — it keeps me inspired to build more cool stuff!
 
-[![Paypal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?business=manosgouzibas@yahoo.gr&currency_code=EUR)
+[![Paypal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?business=manoz.dev25@gmail.com&currency_code=EUR)
 [![Revolut](https://img.shields.io/badge/Donate-Revolut-blue.svg)](https://www.revolut.me/emmanoj7r6)
 
 <!--
