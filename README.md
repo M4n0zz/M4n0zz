@@ -8,6 +8,7 @@ Appreciate my work? Feel free to support me — it keeps me inspired to build mo
 
 [![Paypal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?business=manoz.dev25@gmail.com&currency_code=EUR)
 [![Revolut](https://img.shields.io/badge/Donate-Revolut-blue.svg)](https://www.revolut.me/emmanoj7r6)
+[![Kofi](https://img.shields.io/badge/Donate-Kofi-blue.svg)](https://www.ko-fi.com/manozdev)
 
 <!--
 **M4n0zz/M4n0zz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
